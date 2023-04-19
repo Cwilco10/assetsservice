@@ -1,4 +1,4 @@
-package edu.iu.c322.assetmanagement.licensingservice;
+package edu.iu.c322.assetmanagement.assetsservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
